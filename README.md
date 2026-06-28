@@ -47,9 +47,7 @@ The project answers the following analytical questions:
 
 ---
 
-## SQL Techniques Demonstrated
-
-This project demonstrates proficiency with:
+## SQL Functions used
 
 * INNER JOIN
 * Common Table Expressions (CTEs)
@@ -70,7 +68,7 @@ This project demonstrates proficiency with:
 
 ## Power BI Dashboard
 
-Note : The primary analysis was conducted using SQL, with Power BI used solely as a visualization layer to communicate analytical findings effectively to business stakeholders and non-technical audiences.
+**Note** : The primary analysis was conducted using SQL, with Power BI used solely as a visualization layer to communicate analytical findings effectively to business stakeholders and non-technical audiences.
 
 The dashboard summarizes key insights from the SQL analysis through interactive visualizations.
 
