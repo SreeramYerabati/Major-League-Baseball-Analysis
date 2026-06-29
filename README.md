@@ -94,6 +94,8 @@ The dashboard summarizes key insights from the SQL analysis through interactive 
   * Top Schools Producing MLB Players
   * Top Teams by Total Salary
   * Player Distribution by Birth Country
+ 
+    <img width="894" height="501" alt="Image" src="https://github.com/user-attachments/assets/566c5d87-a98e-4067-9460-a20445711aa5" />
 
 ---
 
@@ -152,4 +154,6 @@ order by decade desc, num_players;
 
 **Sreeram Chandra**
 
-Feel free to connect with me on LinkedIn or explore more of my analytics projects on GitHub.
+Feel free to connect with me on LinkedIn or explore more of my analytics projects on GitHub.<br>
+Contact: `sreeramchandra80@gmail.com` <br>
+LinkedIn : `linkedin.com/in/sreeramchandra-y`
